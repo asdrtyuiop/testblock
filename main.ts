@@ -1,5 +1,5 @@
 //% weight=0 color=#3CB371 icon="\uf1b9"
-namespace KSB037 {
+namespace testblock {
     /**
     * 左右馬達同時正轉
     */
