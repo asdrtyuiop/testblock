@@ -1,7 +1,7 @@
 {
-    "name": "KSB037",
+    "name": "testblock",
     "version": "0.0.1",
-    "description": "Extension for KSB037",
+    "description": "Extension for testblock",
     "license": "MIT",
     "dependencies": {
         "core": "*"
